@@ -1,0 +1,28 @@
+.background-image {
+    height: 600px;
+    width: 900px;
+    display: block;
+    padding: 1em;
+
+}
+
+html {
+font-family: 'IM Fell Great Primer SC', serif;
+background-color: #999999;
+}
+
+body {
+    width: auto;
+    margin: 100px;
+    background-color: rgb(170, 202, 201);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
